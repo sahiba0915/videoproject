@@ -97,4 +97,17 @@ header::after {
     z-index: -999;
     visibility: hidden;
   }
+
+
+
+@media only screen and (max-width: 800px){
+
+    h1 {
+      font-size: 50px;
+      text-align: center;
+      letter-spacing: 0.2em;
+      font-weight: bold;
+      color: cyan;
+       }
+}
   
